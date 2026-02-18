@@ -146,4 +146,6 @@ Scripts/
 
 assets/
 www/
-
+static/
+staticfiles/
+media/
